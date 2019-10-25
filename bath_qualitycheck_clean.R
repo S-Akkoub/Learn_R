@@ -98,5 +98,4 @@ river <- "havel"
                   row.names = FALSE, quote = FALSE)
     }
 
-# absolutley nothing new
 
